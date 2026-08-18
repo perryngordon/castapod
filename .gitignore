@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+scratch/
+production_server.log
+*.mp3
+*.wav
+episode1_cover.png
